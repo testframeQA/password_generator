@@ -1,0 +1,19 @@
+{
+  "name": "password_generator",
+  "version": "1.0.0",
+  "description": "JavaScript Password Generator for front-end or client-side integrations",
+  "main": "password_generator.js",
+  "scripts": {
+    "test": "node password_generator.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/testframeQA/credential_generators.git"
+  },
+  "author": "Bobby R. Goldsmith",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testframeQA/credential_generators/issues"
+  },
+  "homepage": "https://github.com/testframeQA/credential_generators#readme"
+}
