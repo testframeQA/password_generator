@@ -1,6 +1,5 @@
 import argparse
 import secrets
-import string
 
 def generate_token(length) -> str:
     token = secrets.token_hex(length)

@@ -1,4 +1,3 @@
-import argparse
 import uuid
 
 def generate_uuid() -> uuid.UUID:
